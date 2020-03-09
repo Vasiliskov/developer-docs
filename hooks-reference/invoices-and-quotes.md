@@ -581,7 +581,7 @@ add_hook('UpdateInvoiceTotal', 1, function($vars) {
 
 ## ViewInvoiceDetailsPage
 
-Executes as the invoice is being viewed as a client
+Executes as the invoice is being viewed as an admin.
 
 #### Parameters
 
